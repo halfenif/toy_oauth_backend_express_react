@@ -45,7 +45,7 @@ Streamlit으로 간단한 화면을 하나 만들고 있었는데, 인증이 필
 - 나는 인증만 필요한데?
 - Access Token을 왜 화면에다가 던지고 있지?
 - 인터넷에서 발견한 [OAuth 2.0 개념과 동작원리](https://hudi.blog/oauth-2.0/)라는 글을 잘 읽어봅니다.
-- "oauth2 redirect front vs back" 라는 주제로 검색도 해보고 물어보 봅니다.
+- "oauth2 redirect front vs back" 라는 주제로 검색도 해보고 물어도 봅니다.
 > 아무리 생각해도 내가 원하는 것은 back으로 redirect하는 것입니다.
 - GPT에게 oauth redirect backend sample을 만들어 달라고 했더니... Express와 React로 만들어 줍니다. (어이..! 난 그거 모른다고.)
 > 그냥 구글링하면서 진행하기로 합니다.
