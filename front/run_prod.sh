@@ -1,0 +1,1 @@
+npx http-server ./dist --port 3001
