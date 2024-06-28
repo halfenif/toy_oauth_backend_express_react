@@ -1,3 +1,6 @@
+# 2024.06.28
+## Google에서 제공하는 새로운 방식을 적용하면, 위에서 테스트 했던 모든 것이 의미가 없다고 판단됩니다. oAuth 구글한정으로 말입니다.
+
 # toy_oauth_backend_express_react
 
 ## Goal
